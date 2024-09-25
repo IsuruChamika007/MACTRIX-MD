@@ -6,5 +6,4 @@ If you like MACTRIX-MD BOT ?
 Please Give one star
 ```
 
-> Comming Soon..!
-
+> `Coming Soon..!`
